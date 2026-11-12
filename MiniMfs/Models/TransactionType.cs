@@ -1,6 +1,9 @@
 ﻿namespace MiniMfs.Models
 {
-    public class TransactionType
+    public enum TransactionType
     {
+        CashIn,
+        SendMoney,
+        Cashout
     }
 }

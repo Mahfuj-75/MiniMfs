@@ -120,3 +120,4 @@ D:\MFS\MiniMfsSln\MiniMfs\obj\Debug\net8.0\refint\MiniMfs.dll
 D:\MFS\MiniMfsSln\MiniMfs\obj\Debug\net8.0\MiniMfs.pdb
 D:\MFS\MiniMfsSln\MiniMfs\obj\Debug\net8.0\MiniMfs.genruntimeconfig.cache
 D:\MFS\MiniMfsSln\MiniMfs\obj\Debug\net8.0\ref\MiniMfs.dll
+D:\MFS\MiniMfsSln\MiniMfs\obj\Debug\net8.0\MiniMfs.sourcelink.json
