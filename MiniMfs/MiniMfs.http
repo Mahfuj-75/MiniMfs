@@ -1,0 +1,6 @@
+@MiniMfs_HostAddress = http://localhost:5174
+
+GET {{MiniMfs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
